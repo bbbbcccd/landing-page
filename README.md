@@ -1,7 +1,10 @@
 # landing-page
 
-This project creates a webpage with 5 main sections: Header, Information, Quote, Advertisement and Footer.
+This project creates a webpage with 5 main sections: Header, Information, Quote, Call to Action and Footer.
 
-Things that are put to use in this webpage:
-1. HTML
-2. CSS (with Flexbox)
+Below are the URLs for the images used in the webpage.
+
+Tomokazu Harimoto: https://olympics.com/en/news/olympics-table-tennis-men-harimoto-tomokazu
+Fan Zhendong: https://olympics.com/en/news/fan-zhendong-seals-mens-ittf-table-tennis-world-cup-weihai
+Ma Long: https://olympics.com/en/news/ma-long-wins-historic-second-straight-olympic-gold-in-men-s-singles-table-tennis
+Jan-Ove waldner: https://www.bbc.co.uk/programmes/w3ct36f9
