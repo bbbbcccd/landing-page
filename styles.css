@@ -110,6 +110,43 @@ a {
     display: flex;
     justify-content: space-around;
 }
+
 .author {
     font-weight: 900;
+}
+
+.call-to-action {
+    margin: 64px 128px;
+}
+
+.call-to-action-container {
+    padding: 8px 32px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.call-header-text {
+    font-weight: 900;
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.call-main-text {
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.call-to-action a {
+    background: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 900;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 16px;
+    text-align: center;
+    margin: auto 16px;
 }
