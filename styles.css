@@ -41,7 +41,7 @@ a {
 .header-main {
     display: flex;
     justify-content: space-between;
-    gap: 32px;
+    gap: 64px;
     margin-bottom: 64px;
 }
 

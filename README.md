@@ -4,6 +4,7 @@ This project creates a webpage with 5 main sections: Header, Information, Quote,
 
 Below are the URLs for the images used in the webpage.
 
+Header Logo: https://www.vectorstock.com/royalty-free-vector/rackets-ball-table-tennis-vector-13748697
 Tomokazu Harimoto: https://olympics.com/en/news/olympics-table-tennis-men-harimoto-tomokazu
 Fan Zhendong: https://olympics.com/en/news/fan-zhendong-seals-mens-ittf-table-tennis-world-cup-weihai
 Ma Long: https://olympics.com/en/news/ma-long-wins-historic-second-straight-olympic-gold-in-men-s-singles-table-tennis
